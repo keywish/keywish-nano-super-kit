@@ -1,0 +1,1 @@
+https://github.com/keywish/keywish-nano-super-kit.git
